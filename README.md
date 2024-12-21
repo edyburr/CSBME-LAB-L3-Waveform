@@ -9,5 +9,5 @@ The result is similar to a sine waveform, of which only the positive values are 
 
 ## Screenshots
 
-![Program Window when first starting the app](https://imgur.com/a/eKWxKkl)
-![Program Window displaying the waveform](https://imgur.com/a/3iESIhC)
+![Main app](/shots/main_app.png)
+![Main app after running](/shots/after_app.png)
