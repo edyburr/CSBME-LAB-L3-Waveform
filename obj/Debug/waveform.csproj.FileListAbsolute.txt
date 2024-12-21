@@ -1,0 +1,10 @@
+C:\Users\Edy\OneDrive\Desktop\waveform\bin\Debug\waveform.exe.config
+C:\Users\Edy\OneDrive\Desktop\waveform\bin\Debug\waveform.exe
+C:\Users\Edy\OneDrive\Desktop\waveform\bin\Debug\waveform.pdb
+C:\Users\Edy\OneDrive\Desktop\waveform\obj\Debug\waveform.csproj.AssemblyReference.cache
+C:\Users\Edy\OneDrive\Desktop\waveform\obj\Debug\waveform.Properties.Resources.resources
+C:\Users\Edy\OneDrive\Desktop\waveform\obj\Debug\waveform.csproj.GenerateResource.cache
+C:\Users\Edy\OneDrive\Desktop\waveform\obj\Debug\waveform.csproj.CoreCompileInputs.cache
+C:\Users\Edy\OneDrive\Desktop\waveform\obj\Debug\waveform.exe
+C:\Users\Edy\OneDrive\Desktop\waveform\obj\Debug\waveform.pdb
+C:\Users\Edy\OneDrive\Desktop\waveform\obj\Debug\waveform.Waveform.resources
